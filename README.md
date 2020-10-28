@@ -1,8 +1,8 @@
 # MATERIALE TECNOLOGIA
 
 ## Introduzione
-[Istituzioni di Informatica - Introduzione corso](./dams-1.pdf)
-[](./dams-2.pdf)
+[Istituzioni di Informatica - Introduzione corso](./dams-1.pdf)  
+[Di che parliamo?](./dams-2.pdf)
 
 ## Codifica informazioni
 
@@ -15,15 +15,15 @@
 [La codifica dei suoni](./lezione9-dams.pdf)  
 [Video digitale](./lezione10-dams.pdf)  
 
-## Architettura computer
+## Architettura dei computer
 
-[](./lezione11-dams.pdf)  
-[](./lezione12-dams.pdf)  
-[](./lezione13-dams.pdf)  
-[](./lezione14-dams.pdf)  
-[](./lezione15-dams.pdf)  
-[](./lezione16-dams.pdf)  
-[](./lezione17-dams.pdf)  
+[Architettura dei computer](./lezione11-dams.pdf)  
+[Il processore: i registri](./lezione12-dams.pdf)  
+[Ciclo di fetch & execute](./lezione13-dams.pdf)  
+[La memoria secondaria](./lezione14-dams.pdf)  
+[I dischi magnetici](./lezione15-dams.pdf)  
+[I dispositivi di input/output](./lezione16-dams.pdf)  
+[Lo scanner](./lezione17-dams.pdf)  
 
 
 ## Software e Sistema Operativo
