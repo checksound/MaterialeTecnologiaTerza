@@ -10,10 +10,10 @@ Programma corso:
 
 Materiale:
 
-[Codifica delle informazioni](./CODIFICA-4.pdf)
-[Architettura dei calcolatori](./ARCHITETTURA-COMPLETO-4.pdf)
-[Software e Sistema Operativo](./SOFTWARE_E_SISTEMA_OPERATIVO-4.pdf)
-[Reti di calcolatori](./RETI-4.pdf)
+[Codifica delle informazioni](./CODIFICA-4.pdf)  
+[Architettura dei calcolatori](./ARCHITETTURA-COMPLETO-4.pdf)  
+[Software e Sistema Operativo](./SOFTWARE_E_SISTEMA_OPERATIVO-4.pdf)  
+[Reti di calcolatori](./RETI-4.pdf)  
 
 ## Introduzione
 [Istituzioni di Informatica - Introduzione corso](./dams-1.pdf)  
