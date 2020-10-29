@@ -1,5 +1,20 @@
 # MATERIALE TECNOLOGIA
 
+Programma corso:
+
+* Rappresentazione digitale delle informazioni: caratteri, immagini, suono,.....
+* Architettura degli elaboratori: unità centrale, memorie principali e secondarie, periferiche......
+* Il sistema operativo: l'interprete dei comandi, il file system, la gestione dei processi, della memoria e delle periferiche, la sicurezza.
+* Il Software applicativo: Funzionalità di elaborazione di testi, fogli elettronici, programmi di archiviazione dati.
+* Reti di calcolatori: architettura client/server, elaborazione e trasmissione dati, tipologia delle reti, protocolli. Internet: indirizzi, posta elettronica, trasferimento di file (FTP).
+
+Materiale:
+
+[Codifica delle informazioni](./CODIFICA-4.pdf)
+[Architettura dei calcolatori](./ARCHITETTURA-COMPLETO-4.pdf)
+[Software e Sistema Operativo](./SOFTWARE_E_SISTEMA_OPERATIVO-4.pdf)
+[Reti di calcolatori](./RETI-4.pdf)
+
 ## Introduzione
 [Istituzioni di Informatica - Introduzione corso](./dams-1.pdf)  
 [Di che parliamo?](./dams-2.pdf)
